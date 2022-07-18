@@ -8,6 +8,7 @@ Hey there! I am a well-rounded, independent software developer with a keen backg
 - [Dropfilter](https://github.com/crock/dropfilter)
 - OGCheckr [CLI](https://github.com/checker/cli) and [API](https://github.com/checker/api)
 - [Domaincord](https://domaincord.com)
+- [Discord Member Verification Bot](https://github.com/crock/verification-bot)
 - [PlayBattleRoyale.com](https://github.com/crock/clip-aggregator) (Inactive)
 
 ## My Contributions
