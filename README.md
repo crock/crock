@@ -5,7 +5,7 @@
 Hey there! I am a well-rounded, independent software developer with a keen background in nearly every aspect of the app development, design, and deployment process. I have created many of my own open-source projects as as well as contributed many hours to popular third-party projects.
 
 ## Passion Projects
-- [Dropfilter](https://github.com/crock/dropfilter)
+- Dropfilter [Web](https://github.com/crock/dropfilter) and [CLI](https://github.com/crock/dropfilter-cli)
 - OGCheckr [CLI](https://github.com/checker/cli) and [API](https://github.com/checker/api)
 - [Domaincord](https://domaincord.com)
 - [Discord Member Verification Bot](https://github.com/crock/verification-bot)
