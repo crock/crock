@@ -1,4 +1,4 @@
-<img src="https://cdn.domaincord.com/github-readme-header.svg" alt="profile banner" />
+![My github readme profile header](https://cdn.some.pics/croc/640d027ea2609.svg)
 
 # Alex Crocker
 
