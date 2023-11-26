@@ -15,6 +15,4 @@ Hey there! I am a well-rounded, independent software developer with a keen backg
 I have contributed to the following open and closed-sourced projects.
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby)
 - [DomainPage.io](https://github.com/domainpage)
-- [Leasecake](https://leasecake.com)
-- [CNCMachines.com](https://cncmachines.com)
 - [gatsby-plugin-wpgraphql-seo](https://github.com/ashhitch/gatsby-plugin-wpgraphql-seo)
